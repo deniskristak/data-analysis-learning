@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "data-analysis-learning"
+version = "0.1.0"
+description = ""
+authors = ["Denis Kristak <denis.kristak@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_analysis_learning"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
