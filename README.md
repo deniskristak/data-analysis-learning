@@ -1,4 +1,4 @@
-## NOTE: This is a fork of the https://github.com/nickdcox/learn-airline-delays . I will attempt to solve all the tasks in the [Data Analytics Tasks](#data-analytics-tasks)
+## NOTE: This is a fork of the https://github.com/nickdcox/learn-airline-delays . I will attempt to solve all of the [Data Analytics Tasks](#data-analytics-tasks)
 
 
 ## ORIGINAL README.md follows:
